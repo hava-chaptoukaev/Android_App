@@ -1,0 +1,2 @@
+include ':app-newsletter', ':app-calculator'
+rootProject.name='Newsletter_App'

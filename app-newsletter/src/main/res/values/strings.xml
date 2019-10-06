@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Newsletter_App</string>
+    <string-array name="planetes">
+        <item>Terre</item>
+        <item>Mars</item>
+        <item>Pluton</item>
+        <item>Venus</item>
+        <item>Mercure</item>
+        <item>Saturne</item>
+        <item>Jupiter</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>YoMomma</item>
+    </string-array>
+</resources>
